@@ -1,6 +1,6 @@
 /* p{color: red; font-family: Verdana;} */
 #miparrafo {color: red; font-family: Verdana;}
-li > a {color: brown !important} /* Se especifica que los elementos a que sean li tienen un color distinto */
+li > a {color: brown} /* Se especifica que los elementos a que sean li tienen un color distinto */
 .boton {background-color: lightblue;}
 li > a {color: green;}
-.boton:hover{background-color: chocolate;}
+.boton:hover{background-color: chocolate;} /* Se especifica que cuando se pase el ratón por encima del botón, cambie de color */
