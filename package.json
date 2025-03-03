@@ -1,0 +1,23 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaVillalon/TC500B.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/JuliaVillalon/TC500B/issues"
+  },
+  "homepage": "https://github.com/JuliaVillalon/TC500B#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
