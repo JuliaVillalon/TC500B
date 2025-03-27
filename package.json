@@ -18,6 +18,8 @@
   "homepage": "https://github.com/JuliaVillalon/TC500B#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "morgan": "^1.10.0",
+    "node.js": "^0.0.1-security"
   }
 }

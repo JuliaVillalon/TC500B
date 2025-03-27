@@ -1,5 +1,7 @@
-import express from 'express';
+import express from "express";
+
 const app = express();
-const port = 4000;
-app.use("/", express.static("public"));
-app.listen(port, console.log("http://localhost:" + port));
+const port = 5002;
+
+app.use("/", express.static("PUBLIC"));
+app.listen(port, console.log("http:/localhost" + port));

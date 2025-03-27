@@ -1,6 +1,9 @@
 window.onload = () => {
     if(!sessionStorage.name){
         window.location = "../index.html";
+    } else {
+        const juego = document.getElementById("juego");
+        juego.src = juego.src + "?id=" + sessionStorage.id;
     }
 };
 const h1 = document.getElementById("saludo");

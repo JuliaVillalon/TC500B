@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../API"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "API"
+	}
+}
